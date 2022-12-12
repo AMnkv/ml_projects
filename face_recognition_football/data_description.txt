@@ -1,3 +1,5 @@
+Скачать датасет на Kaggle : https://www.kaggle.com/datasets/armnkv/small-dataset-with-photos-of-football-players?datasetId=272728
+
 Все футболисты из набора данных : Antony, Aurelien Tchouameni, Bernardo Silva, Bruno Fernandes, Bukayo Saka, Christopher Nkunku,
 Declan Rice, Dusan Vlahovic, Erling Haaland, Federico Valverde, Gabriel Jesus, Gavi, Harry Kane, Jamal Musiala, Joshua Kimmich,
 Jude Bellingham, Kevin De Bruyne, Kulian Mbappe, Lautaro Martinez, Luis Diaz, Mason Mount, Mohamed Salah,
